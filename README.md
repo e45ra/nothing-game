@@ -24,11 +24,14 @@ Features
 
 Installation
 Clone the repository:
-```console
-
 bash
+```bat
 git clone https://github.com/e45ra/nothing-game.git
-cd dont-tap-game
+```
+```bat
+
+cd nothing-game
+```
 Install dependencies:
 ```
 bash
@@ -41,7 +44,10 @@ yarn install
 Start the development server:
 
 bash
+```bat
+
 expo start
+```
 Scan the QR code with the Expo Go app or run on your preferred platform.
 
 How to Play
