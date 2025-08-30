@@ -32,9 +32,12 @@ cd dont-tap-game
 Install dependencies:
 ```
 bash
+```bat
+
 npm install
 # or
 yarn install
+```
 Start the development server:
 
 bash
