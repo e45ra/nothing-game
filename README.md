@@ -33,7 +33,6 @@ git clone https://github.com/e45ra/nothing-game.git
 cd nothing-game
 ```
 Install dependencies:
-```
 bash
 ```bat
 
