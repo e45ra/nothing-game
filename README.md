@@ -24,12 +24,13 @@ Features
 
 Installation
 Clone the repository:
+```console
 
 bash
-git clone https://github.com/e45ra/dont-tap-game.git
+git clone https://github.com/e45ra/nothing-game.git
 cd dont-tap-game
 Install dependencies:
-
+```
 bash
 npm install
 # or
