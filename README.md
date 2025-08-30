@@ -3,7 +3,6 @@ its just nothing
 Don't Tap Game - Modern Black Edition
 A sleek, modern React Native game where the challenge is to resist tapping the screen for progressively longer periods. Built with Expo and TypeScript.
 
-https://via.placeholder.com/400x800/000000/4ecdc4?text=Don't+Tap+Game
 
 Game Concept
 The premise is simple but challenging: Don't tap the screen! Each round requires you to resist tapping for a specific duration. Succeed, and the next round gets harder with an additional second added to the timer. Tap accidentally, and it's game over!
